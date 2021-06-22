@@ -1,1 +1,2 @@
-# c20-hw-attempt
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
